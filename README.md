@@ -1,100 +1,96 @@
 <h1 align="center">Hi there, I'm Adarsh Kumar 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Researcher+%7C+Full-Stack+Developer;Open-Source+Contributor+%7C+Cloud+Enthusiast;Turning+Ideas+into+Impact+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Researcher+%7C+Full-Stack+Developer;LeetCode+Expert+%7C+Open-Source+Contributor;Building+Intelligent+Systems+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I’m **Adarsh Kumar**, an AI Researcher and Developer passionate about building scalable systems and advancing ML/AI technologies. Currently pursuing my degree at **[Your University]**, I thrive at the intersection of research and engineering, with a knack for open-source contributions.
+I'm **Adarsh Kumar**, a passionate developer with expertise in **AI/ML, Full-Stack Development, and Competitive Programming**. I love transforming complex problems into elegant solutions through code.
 
 ---
 
 ### 🛠 Tech Stack
 
-*Languages*  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+<div align="center">
 
-*Research & AI*  
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-05122A?style=flat&logo=huggingface)
+**Languages**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-*Development*  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+**Frontend**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 
-*Tools*  
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
-![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)
+**Backend & DevOps**  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+
+**AI/ML**  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+
+</div>
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Kumar-2003&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Kumar-2003&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Kumar-2003&layout=compact&theme=radical" height="170"/>
+  <img src="https://leetcard.jacoblin.cool/adarshcollab?theme=dark&font=Roboto" width="45%" alt="LeetCode Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Kumar-2003&show_icons=true&theme=radical" width="45%" />
 </p>
-
----
-
-### 🔬 Research Interests
-
-- 🧠 **Explainable AI (XAI)** for model interpretability
-- 🔐 **AI in Cybersecurity** (Adversarial ML, Federated Learning)
-- 📊 **MLOps** for reproducible research pipelines
 
 ---
 
 ### 🌟 Featured Projects
 
-1. **Project Athena** | *AI-Powered Cybersecurity Tool*  
-   - Detects zero-day vulnerabilities using ensemble models.  
-   - [GitHub Link](#) | [Demo](#)
+#### 1. **Stock Market Predictor 📈**  
+   - **Python | LSTM | Yahoo Finance API**  
+   - Predicts stock trends with 92% accuracy using time-series analysis.  
+   - [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ADARSH685-BOT/Stock-Predictor) 
+   [![Open in Colab](https://img.shields.io/badge/Try_in_Colab-F9AB00?style=flat&logo=google-colab)](https://colab.research.google.com/github/ADARSH685-BOT/Stock-Predictor)
 
-2. **Nexus** | *Full-Stack Research Collaboration Platform*  
-   - React + Firebase + ML integration for paper summarization.  
-   - [GitHub Link](#)
+#### 2. **Steganography Toolkit 🔐**  
+   - **Python | OpenCV | AES Encryption**  
+   - Hides messages in images with multi-layer encryption.  
+   - [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ADARSH685-BOT/Steganography-Toolkit)
 
-3. **OpenCV Motion Analytics** | *Real-Time Surveillance*  
-   - Optimized motion detection with <50ms latency.  
-   - [GitHub Link](#)
+#### 3. **Network Intrusion Detection 🛡️**  
+   - **Python | Random Forest | Scikit-learn**  
+   - Detects malicious network activity with 95% accuracy.  
+   - [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ADARSH685-BOT/Network-IDS)
 
 ---
 
-### 🤝 Let’s Collaborate
+### 🔥 Activity Graph
 
-💡 I’m open to **research internships, freelance projects, or hackathons** in:  
-- AI/ML Research (Publications welcome!)  
-- Full-Stack Development (React/Node)  
-- Cloud-Native AI Solutions  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Kumar-2003&theme=github-dark" alt="Contribution Graph" />
+</p>
 
-📫 **Reach Me At**:  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/adarsh-kumar-profile/) *(Replace with your link)*  
-- 📧 adarsh.kumar@email.com  
-- 🐦 [Twitter](#) *(Optional)*  
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarsh-kumar-300061331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/adarshcollab/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:adarshcollab09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
 ### 💡 Fun Fact
 
-> "I once trained a model to classify coffee types—turns out, it just loved espresso."
-
----
-
-### 🔥 Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Kumar-2003&theme=dracula" />
-</p>
-
----
-
-⭐ **Fun Fact**: My repositories have **X stars** collectively! Let’s connect and build something amazing. 
+> "I can solve Rubik's cube in under 2 minutes but still struggle with CSS alignment sometimes!"
