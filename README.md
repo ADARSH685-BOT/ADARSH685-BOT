@@ -42,7 +42,7 @@ I'm **Adarsh Kumar**, a passionate developer with expertise in **AI/ML, Full-Sta
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/adarshcollab?theme=dark&font=Roboto" width="45%" alt="LeetCode Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Kumar-2003&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ADARSH685-BOT&show_icons=true&theme=radical" width="45%" />
 </p>
 
 ---
