@@ -70,7 +70,7 @@ I'm **Adarsh Kumar**, a passionate developer with expertise in **AI/ML, Full-Sta
 ### 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Kumar-2003&theme=github-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdARSH685-BOT&theme=github-dark" alt="Contribution Graph" />
 </p>
 
 ---
