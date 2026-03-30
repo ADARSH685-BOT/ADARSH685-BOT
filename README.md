@@ -1,100 +1,87 @@
-<h1 align="center">Hi there, I'm Adarsh Kumar 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Researcher+%7C+Full-Stack+Developer;LeetCode+Expert+%7C+Open-Source+Contributor;Building+Intelligent+Systems+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 About Me
-
-I'm **Adarsh Kumar**, a passionate developer with expertise in **AI/ML, Full-Stack Development, and Competitive Programming**. I love transforming complex problems into elegant solutions through code.
-
----
-
-### 🛠 Tech Stack
-
 <div align="center">
 
-**Languages**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-
-**Frontend**  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-
-**Backend & DevOps**  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-
-**AI/ML**  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-
-</div>
-
----
-
-### 📊 Coding Stats
+# Hi, I'm Adarsh Kumar 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=AI+Researcher;Full-Stack+Developer;Founder+at+TechMasterAI;Building+the+Future+of+Automation" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/adarshcollab?theme=dark&font=Roboto" width="45%" alt="LeetCode Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ADARSH685-BOT&show_icons=true&theme=radical" width="45%" />
+  <img src="https://img.shields.io/badge/B.Tech-CSE_(Cloud_Computing_%26_Automation)-000000?style=for-the-badge&logo=icloud&logoColor=2ECC71" />
+  <img src="https://komarev.com/ghpvc/?username=ADARSH685-BOT&color=2ecc71&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
-
-#### 1. **Stock Market Predictor 📈**  
-   - **Python | LSTM | Yahoo Finance API**  
-   - Predicts stock trends with 92% accuracy using time-series analysis.  
-   - [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ADARSH685-BOT/Stock-Predictor) 
-   [![Open in Colab](https://img.shields.io/badge/Try_in_Colab-F9AB00?style=flat&logo=google-colab)](https://colab.research.google.com/github/ADARSH685-BOT/Stock-Predictor)
-
-#### 2. **Steganography Toolkit 🔐**  
-   - **Python | OpenCV | AES Encryption**  
-   - Hides messages in images with multi-layer encryption.  
-   - [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ADARSH685-BOT/Steganography-Toolkit)
-
-#### 3. **Network Intrusion Detection 🛡️**  
-   - **Python | Random Forest | Scikit-learn**  
-   - Detects malicious network activity with 95% accuracy.  
-   - [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ADARSH685-BOT/Network-IDS)
+### ⚡ The Mission
+**Architecting intelligent systems and scaling innovation.** I bridge the gap between complex AI research and scalable full-stack applications. As a founder, I focus on building high-impact tools that automate the mundane and empower the creative.
 
 ---
 
-### 🔥 Activity Graph
+### 🚀 My Startup: TechMasterAI
+**Revolutionizing the intersection of Intelligence and Automation.** TechMasterAI is dedicated to developing cutting-edge AI solutions that streamline workflows and provide actionable insights for the modern digital era.
+
+<a href="https://techmasterai.org/">
+  <img src="https://img.shields.io/badge/Visit_TechMasterAI-2ECC71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
+
+---
+
+### 🛠 Tech Ecosystem
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & Ops** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn) |
+| **Full-Stack** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B) |
+
+---
+
+### 📊 Contribution Matrix
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdARSH685-BOT&theme=github-dark" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/2ecc71/ADARSH685-BOT" alt="Adarsh's Contribution Chart" width="100%" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADARSH685-BOT&show_icons=true&theme=github_dark&rank_icon=github&border_color=2ecc71&icon_color=2ecc71&text_color=ffffff&title_color=2ecc71" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADARSH685-BOT&layout=compact&theme=github_dark&border_color=2ecc71&icon_color=2ecc71&text_color=ffffff&title_color=2ecc71" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADARSH685-BOT&theme=github_dark&border=2ecc71&stroke=2ecc71&fire=2ecc71&ring=2ecc71" width="97%" />
+</p>
+
+---
+
+### 🏆 Achievements
+* 🎓 **Specializing in Cloud Computing & Automation** at B.Tech level.
+* 💡 **Founded TechMasterAI** to push the boundaries of AI-driven SaaS.
+* 🏅 **AI Researcher** with a focus on neural architecture and automation efficiency.
+* 🚀 **Open Source Advocate** contributing to high-performance tech stacks.
+
+---
+
+### 🤝 Connect with the Founder
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adarsh-kumar-300061331/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/adarshcollab/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adarshcollab09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://techmasterai.org/">
+    <img src="https://img.shields.io/badge/Official_Site-2ECC71?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
----
-
-### 💡 Fun Fact
-
-> "I can solve Rubik's cube in under 2 minutes but still struggle with CSS alignment sometimes!"FOUNDER TECHMASTERAI https://techmasterai.org/
-> <p align="center">
-  <img src="https://ghchart.rshah.org/00ff88/ADARSH685-BOT" />
+<p align="center">
+  <i>"Code is the paint, the IDE is the canvas, and the Startup is the masterpiece."</i>
+  <br>
+  <i>"I can solve Rubik's cube in under 2 minutes but still struggle with CSS alignment sometimes!"</i>
 </p>
 
+</div>
