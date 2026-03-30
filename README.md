@@ -48,9 +48,11 @@
 
 ---
 
-### 🐍 Contribution Journey
+### 📊 Activity Over Time
 
-<img src="https://raw.githubusercontent.com/ADARSH685-BOT/ADARSH685-BOT/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADARSH685-BOT&theme=github-dark&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
