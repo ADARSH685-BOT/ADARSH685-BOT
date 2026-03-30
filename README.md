@@ -1,17 +1,16 @@
 <div align="center">
 
 <!-- Visitor Badge -->
-<img src="https://komarev.com/ghpvc/?username=ADARSH685-BOT&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ADARSH685-BOT&style=for-the-badge&color=ff0040&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Adarsh+%F0%9F%91%8B;AI+Researcher+%26+Builder;Full-Stack+Developer;Founder+%40+TechMasterAI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=800&color=FF0040&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Adarsh+%F0%9F%91%8B;AI+Researcher+%26+Builder;Full-Stack+Developer;Founder+%40+TechMasterAI+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0040&height=3&section=header" width="100%"/>
 
 </div>
 
@@ -26,14 +25,12 @@ Identity    : AI Researcher · Full-Stack Developer · Startup Founder
 Company     : TechMasterAI
 Mission     : Building intelligent systems that scale
 Location    : India 🇮🇳
-Status      : Always building something new 🚀
+Status      : Always building something new 🔴
 ```
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0040&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -43,7 +40,7 @@ Status      : Always building something new 🚀
 
 <br/>
 
-<table>
+<table border="0">
 <tr>
 <td align="center" width="100%">
 
@@ -51,15 +48,17 @@ Status      : Always building something new 🚀
 
 **TechMasterAI** is where AI meets ambition.
 
-We build cutting-edge AI-powered tools and platforms that help individuals, developers, and businesses unlock the full potential of artificial intelligence — from automation and full-stack solutions to research-grade intelligent systems.
+We build cutting-edge AI-powered tools and platforms that help individuals, developers,
+and businesses unlock the full potential of artificial intelligence —
+from automation and full-stack solutions to research-grade intelligent systems.
 
 > *"We don't just use AI. We build it."*
 
 <br/>
 
-[![Visit TechMasterAI](https://img.shields.io/badge/🚀_Visit_TechMasterAI-00FF88?style=for-the-badge&logoColor=black)](https://techmasterai.org/)
-&nbsp;
-[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Ftechmasterai.org&style=for-the-badge&color=00cc66&label=Status)](https://techmasterai.org/)
+[![Visit TechMasterAI](https://img.shields.io/badge/🚀_Visit_TechMasterAI-ff0040?style=for-the-badge&logoColor=white)](https://techmasterai.org/)
+&nbsp;&nbsp;
+[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Ftechmasterai.org&style=for-the-badge&color=cc0033&label=Live+Status)](https://techmasterai.org/)
 
 </td>
 </tr>
@@ -69,9 +68,7 @@ We build cutting-edge AI-powered tools and platforms that help individuals, deve
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0040&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -81,49 +78,47 @@ We build cutting-edge AI-powered tools and platforms that help individuals, deve
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF88)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF88)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF88)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF88)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF88)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=ff0040)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=ff0040)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=ff0040)
+![Java](https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=ff0040)
+![C++](https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=ff0040)
 
 <br/>
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF88)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF88)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF88)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF88)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00FF88)
+![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=ff0040)
+![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=ff0040)
+![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=ff0040)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=ff0040)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=ff0040)
 
 <br/>
 
 **Backend & Cloud**
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF88)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF88)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF88)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=00FF88)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF88)
+![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=ff0040)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=ff0040)
+![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=ff0040)
+![AWS](https://img.shields.io/badge/AWS-0D0D0D?style=for-the-badge&logo=amazonaws&logoColor=ff0040)
+![Linux](https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=ff0040)
 
 <br/>
 
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00FF88)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00FF88)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF88)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=00FF88)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=00FF88)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D0D0D?style=for-the-badge&logo=pytorch&logoColor=ff0040)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D0D0D?style=for-the-badge&logo=tensorflow&logoColor=ff0040)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=ff0040)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D0D0D?style=for-the-badge&logo=opencv&logoColor=ff0040)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D0D0D?style=for-the-badge&logo=huggingface&logoColor=ff0040)
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0040&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -131,65 +126,32 @@ We build cutting-edge AI-powered tools and platforms that help individuals, deve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ADARSH685-BOT&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&ring_color=00FF88" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADARSH685-BOT&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00cc66&currStreakLabel=00FF88&sideLabels=00FF88&dates=c9d1d9&stroke=00FF88" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ADARSH685-BOT&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=ff0040&icon_color=ff0040&text_color=ffffff&ring_color=ff0040" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADARSH685-BOT&hide_border=true&background=0D0D0D&ring=ff0040&fire=cc0033&currStreakLabel=ff0040&sideLabels=ff0040&dates=ffffff&stroke=ff0040" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADARSH685-BOT&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=c9d1d9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADARSH685-BOT&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=ff0040&text_color=ffffff" width="42%" />
 
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0040&height=2&section=header" width="100%"/>
+
+<br/>
+
+## 📈 Contribution Graph
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADARSH685-BOT&bg_color=0D0D0D&color=ff0040&line=ff0040&point=ffffff&area=true&hide_border=true" width="100%" />
+
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADARSH685-BOT/ADARSH685-BOT/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADARSH685-BOT/ADARSH685-BOT/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ADARSH685-BOT/ADARSH685-BOT/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-> **Note:** To enable the snake animation, add this GitHub Actions workflow to your profile repo at `.github/workflows/snake.yml`:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [ { cron: "0 0 * * *" } ]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ADARSH685-BOT
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0040&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -197,15 +159,13 @@ We build cutting-edge AI-powered tools and platforms that help individuals, deve
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ADARSH685-BOT&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ADARSH685-BOT&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0040&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -213,21 +173,19 @@ We build cutting-edge AI-powered tools and platforms that help individuals, deve
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88)](https://www.linkedin.com/in/adarsh-kumar-300061331/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF88)](https://leetcode.com/u/adarshcollab/)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF88)](mailto:adarshcollab09@gmail.com)
-[![TechMasterAI](https://img.shields.io/badge/TechMasterAI-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF88)](https://techmasterai.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=ff0040)](https://www.linkedin.com/in/adarsh-kumar-300061331/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=ff0040)](https://leetcode.com/u/adarshcollab/)
+[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=ff0040)](mailto:adarshcollab09@gmail.com)
+[![TechMasterAI](https://img.shields.io/badge/TechMasterAI-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=ff0040)](https://techmasterai.org/)
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Open+to+collaborations+%26+opportunities;Let's+build+the+future+together+%F0%9F%9A%80" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=FF0040&center=true&vCenter=true&width=520&lines=Open+to+collaborations+%26+opportunities;Let's+build+the+future+together+%F0%9F%9A%80;Founder+%7C+Builder+%7C+Innovator" alt="Footer Typing" />
 
-<br/>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0040&height=80&section=footer" width="100%"/>
 
-<br/>
-
-*⭐ From [Adarsh Kumar](https://github.com/ADARSH685-BOT) — Founder @ [TechMasterAI](https://techmasterai.org/)*
+*Built with ❤️ by [Adarsh Kumar](https://github.com/ADARSH685-BOT) — Founder @ [TechMasterAI](https://techmasterai.org/)*
 
 </div>
