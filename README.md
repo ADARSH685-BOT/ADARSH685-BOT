@@ -35,7 +35,7 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ADARSH685-BOT&show_icons=true&theme=github_dark&rank_icon=github&border_color=2ecc71&icon_color=2ecc71&text_color=ffffff&title_color=2ecc71" width="48%" />
@@ -48,7 +48,15 @@
 
 ---
 
-### 📊 Activity Over Time
+### 🐍 Contribution Matrix
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ADARSH685-BOT/ADARSH685-BOT/output/github-contribution-grid-snake.svg" alt="Contribution Matrix Snake" width="100%" />
+</p>
+
+---
+
+### 📅 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADARSH685-BOT&theme=github-dark&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true" width="100%" />
@@ -80,6 +88,8 @@
 
 <p align="center">
   <i>"Code is the paint, the IDE is the canvas, and the Startup is the masterpiece."</i>
+  <br>
+  <i>"I can solve Rubik's cube in under 2 minutes but still struggle with CSS alignment sometimes!"</i>
 </p>
 
 </div>
