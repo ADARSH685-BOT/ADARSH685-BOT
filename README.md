@@ -43,6 +43,14 @@
 
 ---
 
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADARSH685-BOT&theme=github-compact&hide_border=true&area=true&color=00ff88" width="100%" />
+</p>
+
+---
+
 ### 📈 GitHub Analytics
 
 <p align="center">
