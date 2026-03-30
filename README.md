@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- CYBERPUNK HOLOGRAPHIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,25:0a0a2e,50:1a0533,75:0d1b2a,100:001a12&height=280&section=header&text=ADARSH%20KUMAR&fontSize=85&fontColor=00f5ff&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20System%20Architect%20%7C%20Digital%20Alchemist%20⚡&descAlignY=58&descSize=16&animation=fadeIn&stroke=00f5ff&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,25:0a0a2e,50:1a0533,75:0d1b2a,100:001a12&height=280&section=header&text=ADARSH%20KUMAR&fontSize=85&fontColor=00f5ff&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20Researcher%20%7C%20System%20Architect%20%7C%20Digital%20Alchemist%20⚡&descAlignY=58&descSize=16&animation=fadeIn&stroke=00f5ff&strokeWidth=3" width="100%"/>
 
 </div>
 
 <!-- HOLOGRAPHIC SCANLINES EFFECT -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=%5B+SYSTEM+BOOT...+%5D;%5B+LOADING+DEVELOPER+PROFILE...+%5D;%5B+ACCESS+GRANTED+%E2%9C%93+%5D;%F0%9F%94%B1+Adarsh+Kumar+%7C+Code+Architect;%F0%9F%8C%90+Building+the+Digital+Future;%E2%9A%A1+Performance+%7C+Precision+%7C+Power;%F0%9F%A7%A0+AI+%7C+Cloud+%7C+Full+Stack;%F0%9F%9A%80+From+India+to+the+Universe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=%5B+SYSTEM+BOOT...+%5D;%5B+LOADING+DEVELOPER+PROFILE...+%5D;%5B+ACCESS+GRANTED+%E2%9C%93+%5D;%F0%9F%94%B1+Adarsh+Kumar+%7C+Code+Architect;%F0%9F%94%AC+Researcher+%7C+AI+%26+Tech+Explorer;%F0%9F%8C%90+Building+the+Digital+Future;%E2%9A%A1+Performance+%7C+Precision+%7C+Power;%F0%9F%A7%A0+AI+%7C+Cloud+%7C+Full+Stack;%F0%9F%9A%80+From+India+to+the+Universe)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,7 +36,7 @@
 ║  ╚═╝     ╚═╝  ╚═╝╚══════╝   ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═╝       ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  > IDENTITY  : Adarsh Kumar                                      ║
-║  > ROLE      : Full Stack Developer & Digital Architect          ║
+║  > ROLE      : Full Stack Developer & Researcher                 ║
 ║  > FOUNDER   : TechMasterAI.org 🌐                              ║
 ║  > GITHUB    : github.com/ADARSH685-BOT                         ║
 ║  > ORIGIN    : India 🇮🇳  |  TIMEZONE: IST (UTC+5:30)            ║
@@ -83,6 +83,7 @@ const AdarshKumar: Developer = {
   name: "Adarsh Kumar 🧠",
   role: [
     "Full Stack Developer",
+    "Researcher",
     "Cloud Architect",
     "UI/UX Craftsman",
     "Open Source Advocate",
