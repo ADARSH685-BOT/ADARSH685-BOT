@@ -93,4 +93,8 @@ I'm **Adarsh Kumar**, a passionate developer with expertise in **AI/ML, Full-Sta
 
 ### 💡 Fun Fact
 
-> "I can solve Rubik's cube in under 2 minutes but still struggle with CSS alignment sometimes!" USE THIS N DETILS AND ADD FOUNDER TECHMASTERAI https://techmasterai.org/ and 
+> "I can solve Rubik's cube in under 2 minutes but still struggle with CSS alignment sometimes!"FOUNDER TECHMASTERAI https://techmasterai.org/
+> <p align="center">
+  <img src="https://ghchart.rshah.org/00ff88/ADARSH685-BOT" />
+</p>
+
