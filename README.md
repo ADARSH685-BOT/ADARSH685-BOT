@@ -38,6 +38,7 @@
 ║  > IDENTITY  : Adarsh Kumar                                      ║
 ║  > ROLE      : Full Stack Developer & Digital Architect          ║
 ║  > FOUNDER   : TechMasterAI.org 🌐                              ║
+║  > GITHUB    : github.com/ADARSH685-BOT                         ║
 ║  > ORIGIN    : India 🇮🇳  |  TIMEZONE: IST (UTC+5:30)            ║
 ║  > STATUS    : ██████████ 100% OPERATIONAL                       ║
 ║  > MISSION   : Turning imagination into scalable reality         ║
@@ -127,8 +128,8 @@ execute();
 **⚡ Fueled by caffeine, driven by curiosity**
 
 [![TechMasterAI](https://img.shields.io/badge/TechMasterAI.org-Founder-0d0221?style=for-the-badge&logo=vercel&logoColor=00f5ff&labelColor=0d0221&color=00f5ff)](https://techmasterai.org/)
-[![GitHub](https://img.shields.io/badge/amey--collab69-000?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/amey-collab69)
-[![LinkedIn](https://img.shields.io/badge/Amey_Rathore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amey-rathore-92146535a/)
+[![GitHub](https://img.shields.io/badge/ADARSH685--BOT-000?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/ADARSH685-BOT)
+[![LinkedIn](https://img.shields.io/badge/Adarsh_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar-300061331/)
 
 </td>
 </tr>
@@ -155,22 +156,22 @@ execute();
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amey-collab69&show_icons=true&theme=radical&hide_border=false&bg_color=0d0221&title_color=00f5ff&icon_color=ff00ff&text_color=ffffff&border_color=00f5ff&border_radius=12&include_all_commits=true&count_private=true&rank_icon=percentile" height="195" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ADARSH685-BOT&show_icons=true&theme=radical&hide_border=false&bg_color=0d0221&title_color=00f5ff&icon_color=ff00ff&text_color=ffffff&border_color=00f5ff&border_radius=12&include_all_commits=true&count_private=true&rank_icon=percentile" height="195" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey-collab69&layout=donut-vertical&theme=radical&hide_border=false&bg_color=0d0221&title_color=00f5ff&text_color=ffffff&border_color=00f5ff&border_radius=12&langs_count=8" height="195" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADARSH685-BOT&layout=donut-vertical&theme=radical&hide_border=false&bg_color=0d0221&title_color=00f5ff&text_color=ffffff&border_color=00f5ff&border_radius=12&langs_count=8" height="195" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amey-collab69&theme=radical&hide_border=false&background=0d0221&ring=00f5ff&fire=ff00ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=aaaaaa&border=00f5ff&border_radius=12" width="720" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADARSH685-BOT&theme=radical&hide_border=false&background=0d0221&ring=00f5ff&fire=ff00ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=aaaaaa&border=00f5ff&border_radius=12" width="720" alt="Streak Stats"/>
 </div>
 
 <br/>
 
 <!-- ACTIVITY GRAPH - FULL WIDTH HOLOGRAM -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amey-collab69&theme=react-dark&hide_border=false&bg_color=0d0221&color=00f5ff&line=ff00ff&point=ffffff&area=true&area_color=00f5ff" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADARSH685-BOT&theme=react-dark&hide_border=false&bg_color=0d0221&color=00f5ff&line=ff00ff&point=ffffff&area=true&area_color=00f5ff" width="100%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -227,7 +228,7 @@ execute();
 <h2 align="center">🏆 ACHIEVEMENT VAULT</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amey-collab69&theme=radical&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ADARSH685-BOT&theme=radical&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" width="100%" alt="Trophies"/>
 </div>
 
 <br/>
@@ -322,7 +323,6 @@ execute();
 ```
 ⭐ 500+ GitHub contributions
 ⭐ Launch 2 SaaS products
-⭐ Top 1% on LeetCode
 ⭐ Cloud certifications
 ```
 
@@ -347,37 +347,27 @@ execute();
 
 [![TechMasterAI](https://img.shields.io/badge/TechMasterAI.org-Founder-0d0221?style=for-the-badge&logo=vercel&logoColor=00f5ff&labelColor=0d0221&color=00f5ff)](https://techmasterai.org/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-amey--collab69-0d0221?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d0221&color=00f5ff)](https://github.com/amey-collab69)
+[![GitHub](https://img.shields.io/badge/GitHub-ADARSH685--BOT-0d0221?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d0221&color=00f5ff)](https://github.com/ADARSH685-BOT)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amey_Rathore-0d0221?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d0221&color=00f5ff)](https://www.linkedin.com/in/amey-rathore-92146535a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh_Kumar-0d0221?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d0221&color=00f5ff)](https://www.linkedin.com/in/adarsh-kumar-300061331/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach_Me-0d0221?style=for-the-badge&logo=gmail&logoColor=ff00ff&labelColor=0d0221&color=ff00ff)](mailto:amey@example.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0d0221?style=for-the-badge&logo=vercel&logoColor=00f5ff&labelColor=0d0221&color=00f5ff)](https://github.com/amey-collab69)
+[![Email](https://img.shields.io/badge/Email-Reach_Me-0d0221?style=for-the-badge&logo=gmail&logoColor=ff00ff&labelColor=0d0221&color=ff00ff)](mailto:adarshcollab09@gmail.com)
 
 </div>
 
 <br/>
 
-<div align="center">
 
-![Discord](https://img.shields.io/badge/Discord-amey__rathore-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0221)
-&nbsp;
-![LeetCode](https://img.shields.io/badge/LeetCode-Challenger-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0221)
-&nbsp;
-![HackerRank](https://img.shields.io/badge/HackerRank-5★-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d0221)
-
-</div>
 
 ---
 
 <!-- VISITOR COUNTER + METRICS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amey-collab69&style=for-the-badge&color=00f5ff&labelColor=0d0221&label=PROFILE+VISITORS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ADARSH685-BOT&style=for-the-badge&color=00f5ff&labelColor=0d0221&label=PROFILE+VISITORS" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/amey-collab69?style=for-the-badge&color=ff00ff&labelColor=0d0221&label=GITHUB+FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/ADARSH685-BOT?style=for-the-badge&color=ff00ff&labelColor=0d0221&label=GITHUB+FOLLOWERS" alt="Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/amey-collab69?style=for-the-badge&color=FFD700&labelColor=0d0221&label=TOTAL+STARS" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/ADARSH685-BOT?style=for-the-badge&color=FFD700&labelColor=0d0221&label=TOTAL+STARS" alt="Stars"/>
 </div>
 
 <br/>
@@ -423,5 +413,6 @@ execute();
 🎮 You found the hidden level! 
 You have the eyes of a true developer.
 → Go build something legendary.
+→ github.com/ADARSH685-BOT
 → techmasterai.org
 -->
